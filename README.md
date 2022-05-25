@@ -1,2 +1,3 @@
-# Heart-Attack
+# Heart-Disease
+
  Heart Disease detection
